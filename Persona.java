@@ -20,4 +20,8 @@ public int getEdad(){
 public void setEdad(int edad){
     this.edad = edad;
 }
+public void imprimirDatos() {
+System.out.println("Nombre: " + nombre);
+System.out.println("Edad: " + nombre);
+}
 }
